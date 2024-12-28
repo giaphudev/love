@@ -17,7 +17,7 @@ button.addEventListener("click", function(){
     button.style.transform = "scale(0.8)";
     setTimeout(()=>{
         button.style.transform = "scale(1)";
-        window.location.href = "https://github.com/giaphudev/love/blob/main/app.js"
+        window.location.href = "./love.html"
     },200)
 })
 
